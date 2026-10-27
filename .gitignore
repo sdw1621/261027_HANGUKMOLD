@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Build output
+.next/
+dist/
+build/
+out/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Installers / large binaries (not project source)
+*.msi
+*.exe
+*.zip
+
+# Personal / reference images not part of the project deliverable
+곤룡포_동욱.png
+김정은_사진.png
+남성_전신사진.png
+모카 정면.jpg
+모카.png
+셀리.png
+신동욱_사진.jpg
+여성_전신사진.png
